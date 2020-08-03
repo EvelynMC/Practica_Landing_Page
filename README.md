@@ -1,2 +1,2 @@
-# Practica_Landing_Page
-Landing Page con HMTL/CSS/Bootstrap
+# Practica Landing Page
+Utilizando HMTL/CSS/Bootstrap
